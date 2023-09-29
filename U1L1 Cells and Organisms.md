@@ -1,5 +1,12 @@
-# Lesson 1: Understanding Cells and Organisms
+# Unit 1: Cells and Organisms
+## Lesson 1: Understanding Cells and Organisms
 
+NGSS: MS-LS1-1
+Objectives:
+- Identify the basic unit of life as the cell.
+- Differentiate between unicellular and multicellular organisms.
+- Explain the relationship between cells and organisms.
+- Investigate and provide evidence that living things are made of cells.
 ## Introduction
 Hi there! Today, we're going to talk about all living things, which we call **organisms**. Did you know that everything living, from big elephants to tiny ants, is made from tiny building blocks called **cells**? Let’s learn more!
 
