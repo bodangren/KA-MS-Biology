@@ -2,7 +2,7 @@
 
 Hello budding biologists! Are you ready to embark on a microscopic adventure into the fascinating world of cells and organisms? This unit is your ticket to exploring the tiny building blocks of life that make up the amazing variety of living creatures on our planet. From the smallest bacteria to the largest whales, every living thing is a marvel of biological organization, and it all starts with the humble cell.
 
-## Teaser Article: The Journey Begins at the Cellular Level
+## The Journey Begins at the Cellular Level
 
 Did you know that your body is like a bustling metropolis, with trillions of tiny citizens working tirelessly to keep you moving, breathing, and growing? These microscopic citizens are your cells, and they each have unique jobs that contribute to the well-being of their larger community—the body! Just like a city with various buildings, roads, and parks, every part of a cell has a special function that helps it thrive and contribute to the larger organism.
 
