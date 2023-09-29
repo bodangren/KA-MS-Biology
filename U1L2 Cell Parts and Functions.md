@@ -1,6 +1,6 @@
 # Unit 1: Cells and Organisms
 
-## Lesson: Understand: cell parts and functions
+## Lesson 2: Understand: cell parts and functions
 - **NGSS**: MS-LS1-2
 - **Objectives**:
   1. Identify the major parts of a cell.
