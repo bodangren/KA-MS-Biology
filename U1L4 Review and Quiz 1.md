@@ -21,15 +21,15 @@ Groups will create short skits to demonstrate the functions of different cell or
 
 ### Section A: Multiple Choice (Knowledge)
 1. What is the basic unit of life?
-    a) Atom
-    b) Molecule
-    c) Cell
-    d) Organism
+  - Atom
+  - Molecule
+  - Cell
+  - Organism
 2. Which organelle is known as the powerhouse of the cell?
-    a) Nucleus
-    b) Chloroplast
-    c) Mitochondria
-    d) Endoplasmic Reticulum
+  - Nucleus
+  - Chloroplast
+  - Mitochondria
+  - Endoplasmic Reticulum
 
 ### Section B: True or False (Understanding)
 1. All living organisms are made up of at least one cell. (True/False)
